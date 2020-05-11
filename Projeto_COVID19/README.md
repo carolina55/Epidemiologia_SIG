@@ -8,4 +8,8 @@
 
 ## Objetivos
    - First nested list item
-     - Second nested list item
+   -Casos confirmados
+   -Mortes
+   -Casos recuperados
+   -Testes efetuados
+   
