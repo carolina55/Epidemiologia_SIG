@@ -13,4 +13,4 @@
    - Paises com mais casos recuperados
    - Paises com mais testes efetuados
 
-
+3. Comparação da quantidade de testes efetuados com a quantidade de casos confirmados
