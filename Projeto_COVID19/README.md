@@ -1,4 +1,4 @@
-# Projeto Covid-19 no mundo
+# Projeto Covid-19 no Canada
 
 ## Objetivos
 1. Visualização dos:
@@ -8,9 +8,9 @@
    - Testes efetuados
 
 2. Top 5 (por milhão):
-   - paises com mais casos
-   - Paises com mais Mortes
-   - Paises com mais casos recuperados
-   - Paises com mais testes efetuados
+   - regiões com mais casos
+   - regiões com mais Mortes
+   - regiões com mais casos recuperados
+   - regiões com mais testes efetuados
 
 3. Comparação da quantidade de testes efetuados com a quantidade de casos confirmados
