@@ -1,4 +1,4 @@
-# Projeto Covid-19 na Africa do Sul e no MUNDO
+# Projeto Covid-19 na Canada e no MUNDO
 
 ## Objetivos
 1. Visualização dos:
