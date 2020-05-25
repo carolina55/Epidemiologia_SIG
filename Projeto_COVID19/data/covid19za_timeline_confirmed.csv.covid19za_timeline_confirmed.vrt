@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OGRVRTDataSource>
+    <OGRVRTLayer name="covid19za_timeline_confirmed-covid19za_timeline_confirmed">
+        <SrcDataSource relativeToVRT="1">covid19za_timeline_confirmed.csv</SrcDataSource>
+        <!--Header=False-->
+        <SrcLayer>covid19za_timeline_confirmed</SrcLayer>
+        <Field name="case_id" src="case_id" type="String"/>
+        <Field name="date" src="date" type="String"/>
+        <Field name="YYYYMMDD" src="YYYYMMDD" type="String"/>
+        <Field name="country" src="country" type="String"/>
+        <Field name="province" src="province" type="String"/>
+        <Field name="geo_subdivision" src="geo_subdivision" type="String"/>
+        <Field name="age" src="age" type="String"/>
+        <Field name="gender" src="gender" type="String"/>
+        <Field name="transmission_type" src="transmission_type" type="String"/>
+        <Field name="type" src="type" type="String"/>
+    </OGRVRTLayer>
+</OGRVRTDataSource>
