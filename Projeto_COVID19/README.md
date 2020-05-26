@@ -96,9 +96,17 @@
 <br/>
 <br/>
 <br/>
-
+<br/>
+<br/>
+<br/>
+<br/>
+   
 ### **Top 3 Provincias com mais Mortes e Bottom 3 Provicias com monos Mortes**
 <p><img src="graf/top3mortes.jpg" width="420" align="left"> <img src="graf/top3menosmortes.jpg" width="420" align="right"><p>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -116,5 +124,12 @@
 <br/>
 <br/>
 <br/>
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
