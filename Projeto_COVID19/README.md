@@ -36,10 +36,13 @@
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
 
 # **Os primeiros casos no Canadá : Estatísticas**
 
-### **Crescimento**
+## **Crescimento**
 <p><img src="graf/crescimento200.jpg" align="center" with="520">
    
 <br/> 
