@@ -1,4 +1,4 @@
-# Projeto Covid-19 no Canadá
+# **Projeto Covid-19 no Canadá**
 
 ## Objetivos
 1. Visualização dos:
@@ -14,3 +14,23 @@
    - regiões com mais testes efetuados
 
 3. Comparação da quantidade de testes efetuados com a quantidade de casos confirmados
+
+## **Motivação**
+
+## **Dataset**
+
+### **Origem dos Dados**
+
+## **Mapa do Canadá**
+
+## **Mapas com graduação de cores**
+
+### **Mapa dos Casos positivos**
+### **Mapa das Mortes**
+### **Mapa dos Recuperados**
+### **Mapa dos Testes efetuados**
+
+
+## Os primeiros casos no Canadá : Estatísticas
+
+## Mais dados Estatísticos
