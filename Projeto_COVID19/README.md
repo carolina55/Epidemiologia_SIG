@@ -39,6 +39,16 @@
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 # **Os primeiros casos no Canadá : Estatísticas**
 
@@ -51,7 +61,7 @@
 <br/>
 <br/>
 <br/>
-<br/>
+
 
 ### **Distribuíção por idades e por sexo**
 <p><img src="graf/idades.jpg" width="420" align="left"> <p><img src="graf/sex.jpg" width="420" align="right"><p>
@@ -63,9 +73,7 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
+
 
 ### **Distribuição de casos importados**
 <p><img src="graf/paises.jpg" align="center" with="520">
@@ -75,8 +83,7 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 ## **Mais dados Estatísticos**
 <br/>
