@@ -40,7 +40,7 @@
 ## Os primeiros casos no Canadá : Estatísticas
 
 ### Crescimento
-<p><img src="Projeto_COVID19/graf/crescimento200.jpg" width="420" align="right">
+<p><img src="graf/crescimento200.jpg" width="420" align="right">
 
 
 ## Mais dados Estatísticos
