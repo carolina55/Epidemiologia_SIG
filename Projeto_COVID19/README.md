@@ -29,13 +29,23 @@
 <p><img src="fig/recuperadosCanada.png" width="420" align="left" ><p> <p><img src="fig/testesCanada.png"  width="420" align="right" ><p>
 
 
-
+<br/>
+<br/>
+<br/>
 
 
 # Os primeiros casos no Canadá : Estatísticas
 
 ### Crescimento
 <p><img src="graf/crescimento200.jpg">
+   
+<br/>   
+
+### Distribuíção por idades e por sexo
+<p><img src="graf/idades.jpg" width="420" align="left"> <p><img src="graf/sex.jpg" width="420" align="right">
+
+
+### Distribuíção por 
 
 
 ## Mais dados Estatísticos
