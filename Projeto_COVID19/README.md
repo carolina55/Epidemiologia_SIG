@@ -25,18 +25,18 @@
 ## **Mapas com graduação de cores**
 
 #### **Mapa dos Casos positivos**
-<p><img src="fig/casosCanada.png" width="520" align="left">
+<p><img src="fig/casosCanada.png" >
 
 #### **Mapa das Mortes**
-<p><img src="fig/mortesCanada.png" width="520" align="right">
+<p><img src="fig/mortesCanada.png" >
 
 
 #### **Mapa dos Recuperados**
-<p><img src="fig/recuperadosCanada.png" width="520" align="left">
+<p><img src="fig/recuperadosCanada.png" >
 
 
 #### **Mapa dos Testes efetuados**
-<p><img src="fig/testesCanada.png" width="520" align="right">
+<p><img src="fig/testesCanada.png" >
 
 
 # Os primeiros casos no Canadá : Estatísticas
