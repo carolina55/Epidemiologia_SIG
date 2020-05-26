@@ -78,9 +78,14 @@
 ## **Mais dados Estatísticos**
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
 
 ### **Top 3 de Casos Confirmados e Bottom 3 de Casos confirmados**
-
+<br/>
+<br/>
+<br/>
 <br/>
 <p><img src="graf/top3positivos.jpg" width="420" align="left"> <p><img src="graf/top3menospositivos.jpg" width="420" align="right"><p>
 <br/>
@@ -89,7 +94,9 @@
 <br/>
 
 ### **Top 3 Provincias com mais Mortes e Bottom 3 Provicias com monos Mortes**
-
+<br/>
+<br/>
+<br/>
 <br/>
 <p><img src="graf/top3mortes.jpg" width="420" align="left"> <img src="graf/top3menosmortes.jpg" width="420" align="right"><p>
 <br/>
