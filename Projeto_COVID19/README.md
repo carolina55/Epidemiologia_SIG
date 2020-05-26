@@ -147,3 +147,26 @@
 <br/>
 <br/>
 
+## Caso da Provincia Ontário
+<br/>
+
+### Casos confimados por dia
+<p><img src="graf/linhaconfo.jpg" align="center" with="520">
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+   
+### Testes efetuados por dia
+
+<p><img src="graf/linhatesteso.jpg" align="center" with="520">
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
