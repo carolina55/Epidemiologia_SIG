@@ -1,4 +1,4 @@
-# Projeto Covid-19 no Canada
+# Projeto Covid-19 no Canadá
 
 ## Objetivos
 1. Visualização dos:
