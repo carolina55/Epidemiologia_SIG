@@ -26,6 +26,7 @@
 ## **Mapas com graduação de cores**
 
 ### **Mapa dos Casos positivos**
+<p><img src="Projeto_COVID19/fig/mapaCanada.png" width="420" align="right">
 ### **Mapa das Mortes**
 ### **Mapa dos Recuperados**
 ### **Mapa dos Testes efetuados**
