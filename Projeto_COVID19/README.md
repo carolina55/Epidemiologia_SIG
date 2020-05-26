@@ -62,8 +62,7 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 
 # **Os primeiros casos no Canadá : Estatísticas**
