@@ -25,14 +25,14 @@
 ## **Mapas com graduação de cores**
 
 #### **Mapa dos Casos positivos**
-<p><img src="fig/casosCanada.png" width="420" align="right"> <p>
+<p><img src="fig/casosCanada.png" width="420" align="left"> <img src="fig/mortesCanada.png" > <p>
 
 #### **Mapa das Mortes**
-<p><img src="fig/mortesCanada.png" > <p>
+<p> <p>
 
 
 #### **Mapa dos Recuperados**
-<p><img src="fig/recuperadosCanada.png" ><p>
+<p><img src="fig/recuperadosCanada.png" width="420" align="left" ><p> <p><img src="fig/testesCanada.png"  width="420" align="right" > <p>
 
 
 #### **Mapa dos Testes efetuados**
