@@ -23,7 +23,7 @@
 
 ## **Mapa do Canadá**
 
-![Mapa_Canada] https://github.com/carolina55/Epidemiologia_SIG/blob/master/Projeto_COVID19/fig/mapaCanada.png
+![Mapa_Canada](https://github.com/carolina55/Epidemiologia_SIG/blob/master/Projeto_COVID19/fig/mapaCanada.png)
 
 ## **Mapas com graduação de cores**
 
