@@ -17,12 +17,21 @@
 
 ## **Motivação**
 
-## **Dataset**
+O objetivo para este projeto foi estudar a propagação de Covid-19 no Canadá especifícamente de forma a compreender qual o desempenho do vírus nesse País. Desenvolveu-se portanto um conjunto de notebooks que ajudam a entender o avanço da pandemia, desde os primeiros casos, até aos últimos dias.
 
+## **Dataset**
 ### **Origem dos Dados**
+https://github.com/ishaberry/Covid19Canada - Informação relativa aos dados do Covid-19 no Canadá, tais como número de infetados, recuperados, mortes e testes efetuados.
+
+https://www12.statcan.gc.ca/census-recensement/2011/geo/bound-limit/bound-limit-2016-eng.cfm - Aqui podem ser encontrados os dados em ficheiro shp para a contrução do mapa do Canadá em QGIS
 
 
 ## **Mapas com graduação de cores**
+
+Nesta secção podemos visualizar 4 Mapas do Canadá. Em todos, o código de cor é o mesmo, ou seja, quanto mais escura for a cor, mais casos existem para aquela provincia. 
+
+No primeiro caso, no mapa com tons de vermelho, encontram-se os casos positivos de Covid-19. Seguidamente, no mapa em tons cinzentos, encontram-se as mortes sofridas devido ao vírus. A seguir, encontram-se um mapa, em tons de verde que retrata o número de pessoas que já recuperaram da doença. Por último, no mapa em tons de azul estão representados  os testes já efetuados.
+
 
 <p><img src="fig/casosCanada.png" width="420" align="left"> <img src="fig/mortesCanada.png" width="420" align="right"> <p>
 
