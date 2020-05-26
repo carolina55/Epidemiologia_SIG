@@ -169,7 +169,7 @@ Por último, o foco do projeto virou-se para Ontario, onde se pode ver o crescim
 ### **Testes efetuados por provincia**
 
 <p align="center">
-<img src="graf/testespie.jpg" width="620">
+<img src="graf/testespie.jpg" width="720">
 </p>
 
 ## Caso da Provincia Ontário
@@ -182,17 +182,9 @@ Por último, o foco do projeto virou-se para Ontario, onde se pode ver o crescim
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
+
    
 ### Testes efetuados por dia
 
 <p><img src="graf/linhatesteso.jpg" align="center" with="520">
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
