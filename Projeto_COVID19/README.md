@@ -21,9 +21,6 @@
 
 ### **Origem dos Dados**
 
-## **Mapa do Canadá**
-
-![Mapa_Canada](https://github.com/carolina55/Epidemiologia_SIG/blob/master/Projeto_COVID19/fig/mapaCanada.png)
 
 ## **Mapas com graduação de cores**
 
@@ -41,5 +38,9 @@
 ![Mapa_testes](https://github.com/carolina55/Epidemiologia_SIG/blob/master/Projeto_COVID19/fig/testesCanada.png)
 
 ## Os primeiros casos no Canadá : Estatísticas
+
+### Crescimento
+<p><img src="Projeto_COVID19/graf/crescimento200.jpg" width="420" align="right">
+
 
 ## Mais dados Estatísticos
