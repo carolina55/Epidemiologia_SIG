@@ -7,7 +7,7 @@
    - Casos recuperados
    - Testes efetuados
 
-2. Top 5 (por milhão):
+2. Top 3:
    - regiões com mais casos
    - regiões com mais Mortes
    - regiões com mais casos recuperados
@@ -76,6 +76,12 @@ No primeiro caso, no mapa com tons de vermelho, encontram-se os casos positivos 
 
 # **Os primeiros casos no Canadá : Estatísticas**
 
+Numa primeira fase, foram apenas analizados os primeiros 200 casos de infeção por Covid-19 no Canadá, referentes aos 18 primeiros dias desde o primeiro caso identificado da doença, isto de forma a conseguir uma análise mais específica do contágio inicial.  Assim como primeiro gráfico pode-se observar o crescimento dos casos de covid-19 nas diversas provincias do Canadá.
+
+No segundo gráfico encontra-se a distribuição por idades dos 200 primeiros casos e no terceiro a distribuição por sexo.
+
+Por último, podemos verificar de onde foram importados os primeiros casos confirmados.
+.
 ## **Crescimento**
 <p><img src="graf/crescimento200.jpg" align="center" with="520">
    
