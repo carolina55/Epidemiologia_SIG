@@ -24,9 +24,9 @@
 
 ## **Mapas com graduação de cores**
 
-<p><img src="fig/casosCanada.png" width="440" align="left"> <img src="fig/mortesCanada.png" width="440" align="right"> <p>
+<p><img src="fig/casosCanada.png" width="420" align="left"> <img src="fig/mortesCanada.png" width="420" align="right"> <p>
 
-<p><img src="fig/recuperadosCanada.png" width="440" align="left" ><p> <p><img src="fig/testesCanada.png"  width="440" align="right" ><p>
+<p><img src="fig/recuperadosCanada.png" width="420" align="left" ><p> <p><img src="fig/testesCanada.png"  width="420" align="right" ><p>
 
 
 
