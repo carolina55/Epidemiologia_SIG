@@ -169,10 +169,17 @@ Por último, o foco do projeto virou-se para Ontario, onde se pode ver o crescim
 ### **Testes efetuados por provincia**
 
 <p align="center">
-<img src="graf/pie.jpg" width="425">
+<img src="graf/testespie.jpg" width="425">
 </p>
 
 ## Caso da Provincia Ontário
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 
 ### Casos confimados por dia
