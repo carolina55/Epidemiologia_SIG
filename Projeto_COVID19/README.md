@@ -83,7 +83,7 @@ No segundo gráfico encontra-se a distribuição por idades dos 200 primeiros ca
 Por último, podemos verificar de onde foram importados os primeiros casos confirmados.
 .
 ## **Crescimento**
-<p><img src="graf/crescimento200.jpg" align="center" with="520">
+<p align="center"><img src="graf/crescimento200.jpg" align="center" with="520">
    
 <br/> 
 <br/>
@@ -105,7 +105,7 @@ Por último, podemos verificar de onde foram importados os primeiros casos confi
 
 
 ## **Distribuição de casos importados**
-<p><img src="graf/paises.jpg" align="center" with="520">
+<p align="center"><img src="graf/paises.jpg"  with="420">
 <br/>
 <br/>
 <br/>
@@ -169,18 +169,11 @@ Por último, o foco do projeto virou-se para Ontario, onde se pode ver o crescim
 ### **Testes efetuados por provincia**
 
 <p align="center">
-<img src="graf/testespie.jpg" width="425">
+<img src="graf/testespie.jpg" width="620">
 </p>
 
 ## Caso da Provincia Ontário
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 ### Casos confimados por dia
 <p><img src="graf/linhaconfo.jpg" align="center" with="520">
