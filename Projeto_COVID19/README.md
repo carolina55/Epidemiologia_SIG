@@ -37,9 +37,9 @@
 <br/>
 <br/>
 
-# Os primeiros casos no Canadá : Estatísticas
+# **Os primeiros casos no Canadá : Estatísticas**
 
-### Crescimento
+### **Crescimento**
 <p><img src="graf/crescimento200.jpg" align="center" with="520">
    
 <br/> 
@@ -50,7 +50,7 @@
 <br/>
 <br/>
 
-### Distribuíção por idades e por sexo
+### **Distribuíção por idades e por sexo**
 <p><img src="graf/idades.jpg" width="420" align="left"> <p><img src="graf/sex.jpg" width="420" align="right"><p>
 
 <br/>
@@ -64,7 +64,7 @@
 <br/>
 <br/>
 
-### Distribuição de casos importados
+### **Distribuição de casos importados**
 <p><img src="graf/paises.jpg" align="center" with="520">
 <br/>
 <br/>
@@ -75,10 +75,12 @@
 <br/>
 <br/>
 
-## Mais dados Estatísticos
+## **Mais dados Estatísticos**
 <br/>
 <br/>
-### Top 3 de Casos Confirmados e Bottom 3 de Casos confirmados
+
+### **Top 3 de Casos Confirmados e Bottom 3 de Casos confirmados**
+
 <br/>
 <p><img src="graf/top3positivos.jpg" width="420" align="left"> <p><img src="graf/top3menospositivos.jpg" width="420" align="right"><p>
 <br/>
@@ -86,7 +88,8 @@
 <br/>
 <br/>
 
-### Top 3 Provincias com mais Mortes e Bottom 3 Provicias com monos Mortes
+### **Top 3 Provincias com mais Mortes e Bottom 3 Provicias com monos Mortes**
+
 <br/>
 <p><img src="graf/top3mortes.jpg" width="420" align="left"> <img src="graf/top3menosmortes.jpg" width="420" align="right"><p>
 <br/>
@@ -94,9 +97,10 @@
 <br/>
 <br/>
    
-### Top 3 casos Recuperados e Comparação das 3 provincias mais afetadas
+### **Top 3 casos Recuperados e Comparação das 3 provincias mais afetadas**
+
 <br/>
-<p><img src="graf/recuperados.jpg" width="420" align="left"> <img src="graf/comparacao.jpg" width="420" align="right"><p>
+<p><img src="graf/top3recuperados.jpg" width="420" align="left"> <img src="graf/comparacao.jpg" width="420" align="right"><p>
 <br/>
 <br/>
 <br/>
