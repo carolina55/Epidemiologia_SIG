@@ -75,8 +75,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
-
 
 ## **Distribuíção por idades e por sexo**
 <p><img src="graf/idades.jpg" width="420" align="left"> <p><img src="graf/sex.jpg" width="420" align="right"><p>
@@ -85,9 +83,8 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
+
+
 
 
 ## **Distribuição de casos importados**
@@ -102,8 +99,7 @@
 
 ## **Mais dados Estatísticos**
 <br/>
-<br/>
-<br/>
+
 
 ### **Top 3 de Casos Confirmados e Bottom 3 de Casos confirmados**
 <p><img src="graf/top3positivos.jpg" width="420" align="left"> <p><img src="graf/top3menospositivos.jpg" width="420" align="right"><p>
@@ -116,7 +112,8 @@
 <br/>
 <br/>
 <br/>
-
+<br/>
+<br/>
    
 ### **Top 3 Provincias com mais Mortes e Bottom 3 Provicias com monos Mortes**
 <p><img src="graf/top3mortes.jpg" width="420" align="left"> <img src="graf/top3menosmortes.jpg" width="420" align="right"><p>
