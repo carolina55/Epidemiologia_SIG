@@ -115,7 +115,11 @@ Por último, podemos verificar de onde foram importados os primeiros casos confi
 
 
 ## **Mais dados Estatísticos**
-<br/>
+Numa segunda fase, já se analizaram todos os casos confirmados, testados, recuperados e mortes até à data (21 de Maio). De forma a compreender as provincias mais afetadas pela pandemia fizeram-se gráficos de barras visualizar os casos confirmados, recuperados e as mortes dos mesmos.
+
+Seguidamente, para conseguir entender quais as provincias cuja população se encontrava mais testada fez-se um gráfico circular. 
+
+Por último, o foco do projeto virou-se para Ontario, onde se pode ver o crescimento dos casos confirmados e dos testes efetuados por dia.
 
 
 ### **Top 3 de Casos Confirmados e Bottom 3 de Casos confirmados**
@@ -161,6 +165,12 @@ Por último, podemos verificar de onde foram importados os primeiros casos confi
 <br/>
 <br/>
 <br/>
+   
+### **Testes efetuados por provincia**
+
+<p align="center">
+<img src="graf/pie.jpg" width="425">
+</p>
 
 ## Caso da Provincia Ontário
 <br/>
