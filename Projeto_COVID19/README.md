@@ -28,7 +28,7 @@
 <p><img src="fig/casosCanada.png" width="420" align="left">
 
 ### **Mapa das Mortes**
-<p><img src="fig/mortesCanada.png" width="420" align="left">
+<p><img src="fig/mortesCanada.png" width="420" align="right">
 
 
 ### **Mapa dos Recuperados**
@@ -36,13 +36,13 @@
 
 
 ### **Mapa dos Testes efetuados**
-<p><img src="fig/testesCanada.png" width="420" align="left">
+<p><img src="fig/testesCanada.png" width="420" align="right">
 
 
 ## Os primeiros casos no Canadá : Estatísticas
 
 ### Crescimento
-<p><img src="graf/crescimento200.jpg" width="420" align="center">
+<p><img src="graf/crescimento200.jpg">
 
 
 ## Mais dados Estatísticos
