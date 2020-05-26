@@ -28,12 +28,17 @@
 ## **Mapas com graduação de cores**
 
 ### **Mapa dos Casos positivos**
+![Mapa Positivos](https://github.com/carolina55/Epidemiologia_SIG/blob/master/Projeto_COVID19/fig/casosCanada.png)
 
    
 ### **Mapa das Mortes**
-### **Mapa dos Recuperados**
-### **Mapa dos Testes efetuados**
+![Mapa_Mortes](https://github.com/carolina55/Epidemiologia_SIG/blob/master/Projeto_COVID19/fig/mortesCanada.png)
 
+### **Mapa dos Recuperados**
+![Mapa_recuperados](https://github.com/carolina55/Epidemiologia_SIG/blob/master/Projeto_COVID19/fig/recuperadosCanada.png)
+
+### **Mapa dos Testes efetuados**
+![Mapa_testes](https://github.com/carolina55/Epidemiologia_SIG/blob/master/Projeto_COVID19/fig/testesCanada.png)
 
 ## Os primeiros casos no Canadá : Estatísticas
 
