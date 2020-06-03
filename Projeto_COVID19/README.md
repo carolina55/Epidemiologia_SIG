@@ -17,7 +17,7 @@
 
 ## **Motivação**
 
-O objetivo para este projeto foi estudar a propagação de Covid-19 no Canadá especifícamente de forma a compreender qual o desempenho do vírus nesse País. Desenvolveu-se portanto um conjunto de notebooks que ajudam a entender o avanço da pandemia, desde os primeiros casos, até aos últimos dias.
+O objetivo para este projeto foi estudar a propagação de Covid-19 no Canadá especificamente de forma a compreender qual o desempenho do vírus nesse País. Desenvolveu-se portanto um conjunto de notebooks que ajudam a entender o avanço da pandemia, desde os primeiros casos, até aos últimos dias.
 
 ## **Dataset**
 ### **Origem dos Dados**
