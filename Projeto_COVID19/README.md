@@ -13,7 +13,7 @@
    - regiões com mais casos recuperados
    - regiões com mais testes efetuados
 
-3. Comparação da quantidade de testes efetuados com a quantidade de casos confirmados
+
 
 ## **Motivação**
 
